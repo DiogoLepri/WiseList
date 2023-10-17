@@ -1,4 +1,5 @@
 # WiseList
+Equipe: Diogo Lepri Moreira - Raphael Garcia Palma - Pedro Henrique Tavares
 
 Aplicativo de Lista de Compras Simples
 Este é um modelo (template) de aplicativo de lista de compras básicas que pode servir como ponto de partida para o desenvolvimento de um aplicativo para dispositivos móveis ou web. Este template inclui funcionalidades essenciais para criar, visualizar e gerenciar listas de compras.
